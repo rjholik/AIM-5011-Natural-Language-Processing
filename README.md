@@ -1,0 +1,1 @@
+This repository holds work from the AIM 5011 Natural Language Processing (NLP) course at the Katz School of Science and Health. Throughout the course, I honed my skills in NLP techniques and applications. I hope my work can be a handy reference for those exploring this intricate field.
